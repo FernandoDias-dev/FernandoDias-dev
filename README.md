@@ -37,6 +37,13 @@
 <br>
 
 <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FernandoDias-dev}/count.svg" /></p> 
+<br>
+</div>
+<br>
+
+<div align="center">
   <h2>Minhas contribuições</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
